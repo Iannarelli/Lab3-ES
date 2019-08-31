@@ -1,0 +1,13 @@
+- implementação de índice invertido
+- tabelha hash em disco
+- encadeamento exterior para colisões
+- biblioteca Random Access File
+- pesquisa por string
+
+Métodos
+1- Inicialização(construtor)
+2- insere(novoElemento, chave)
+3- pesquisa(chave)
+4- imprime()
+
+Aplicação para criar, inserir e pesquisar
