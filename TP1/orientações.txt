@@ -11,3 +11,6 @@ Métodos
 4- imprime()
 
 Aplicação para criar, inserir e pesquisar
+
+- se abrir um arquivo enquanto já existe um aberto, o que acontece?
+	ele fecha o que estava aberto? só deixa aberto e passa a trabalhar com o atual?
